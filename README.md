@@ -1,6 +1,6 @@
 # Financial Intelligence Engine: Bridging Relational SQL Architecture with Executive Analytics
 
-An automated data pipeline that extractsbackend transactional financial data from a relational SQL database using python, handlesprocessing workflows and pushes structured data to an executive-ready Power BI dashboard.
+An automated data pipeline that extracts backend transactional financial data from a relational SQL database using python,handles processing workflows and pushes structured data to an executive-ready Power BI dashboard.
 
 ## Features & workflow
 -**Database Engine:** Connected directly to the '2026 Sales' relational database schema.
