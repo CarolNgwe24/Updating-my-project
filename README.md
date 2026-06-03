@@ -16,3 +16,16 @@ An automated data pipeline that extracts backend transactional financial data fr
 -**Languages:** Python 3.x, SQL
 -**BI Tools:** Power BI
 -**Database Architecture:** MySQL Workbench Relational DB
+
+
+##Predictive Analytics Engine
+Built a Gradient Boosting Predictive Model to forecast business intelligence revenue and financial performance trends.
+
+##Model Performance Metrics
+**Model Training $R^2$ Accuracy:**99.99%
+**Model Test Validation Accuracy:**-64.00% *(Note: High training accuracy with negative test validation suggests model overfitting; requires hyperparameter tuning)*
+**Prediction Error Margin(RMSE):**+-R1,280,62
+
+###Key Deliverables Added
+*`predictive_analysis.py`: Core machine learning pipeline scripts.
+*`ai_predictive_forecast.png`:Visual forecast grapgh displaying actual vs.targeted metrics.
