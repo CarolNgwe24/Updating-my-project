@@ -8,7 +8,7 @@ An automated data pipeline that extracts backend transactional financial data fr
 -**BI Dashboard** Built comprehensive analytics capturing *Portfolio Asset Allocation* and *Gross Portfolio Volume*.
 
 ## Repository Structure
--**'ai_db_bridge.py'**: Main autimated script containing database connection engines and error handling logic.
+-**'ai_db_bridge.py'**: Main automated script containing database connection engines and error handling logic.
 -'2026_Sales.mwb':Relational database data model mapping out backend schemas.
 -'README.md':Project overview and documentation.
 
